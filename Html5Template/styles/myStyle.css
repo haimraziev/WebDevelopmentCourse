@@ -1,0 +1,92 @@
+body {
+    direction: rtl;
+    background-color: black;
+    width: 960px;
+    text-align: right;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+    background-color: mintcream;
+    background-attachment: fixed;
+    padding: 50px;
+}
+
+.Resume {
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+    font-family: Tahoma;
+}
+
+.Haim {
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: bold;
+    color: royalblue;
+    text-decoration: underline;
+}
+
+.Haimr {
+    font-family: Tahoma;
+    font-size: 15px;
+    color: black;
+}
+
+.education {
+    font-family: Tahoma;
+    font-size: 20px;
+    color: royalblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.Holtz {
+    font-family: Tahoma;
+    font-size: 15px;
+    color: black;
+}
+
+.Army {
+    font-family: Tahoma;
+    font-size: 20px;
+    color: royalblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.soldier {
+    font-family: Tahoma;
+    font-size: 15px;
+    color: black;
+}
+
+.contact {
+    font-family: Tahoma;
+    font-size: 20px;
+    color: royalblue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.Mail {
+    font-family: Tahoma;
+    font-size: 15px;
+    color: black;
+}
+
+.work {
+    font-family: Tahoma;
+    font-size: 20px;
+    color: royalblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.w {
+    font-family: Tahoma;
+    font-size: 15px;
+    color: black;
+}
